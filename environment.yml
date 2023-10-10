@@ -1,0 +1,11 @@
+name: spdlog_tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - jupyterlab
+  - matplotlib
+  - ipympl
+  - xeus-cling
+  - spdlog
